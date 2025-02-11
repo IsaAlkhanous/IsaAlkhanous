@@ -51,6 +51,10 @@
 
 ---
 
+## **🕸️ Check these projects out**
+- <a href="https://isaalkhanous.github.io/APPs-Roll-Of-Fate/"> App's Roll of fate- small game project I made using html,css and javascript.
+- <a href="https://isaalkhanous.github.io/Anomaly-Protection-Protocol-APP/">App- A collaborative website inspired by SCP
+
 ## 📊 **GitHub Stats & Profile Insights**  
 <table>
   <tr>
