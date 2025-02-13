@@ -41,19 +41,19 @@
 ---
 
 ## **🌍 Current Projects**  
-### 🎮 **Mafia** (Web-Based Game)  
+### <a href="https://github.com/IsaAlkhanous/Mafia">🎮 **Mafia** (Web-Based Game)  
 - Inspired by **Jackbox Games**.  
 - Multiplayer experience with interactive gameplay.  
 
-### 🤖 **Arabic Dialect Identification Using LLMs**  
+### <a href="https://github.com/IsaAlkhanous/Arabic-Dialect-Identification-Using-LLMs">🤖 **Arabic Dialect Identification Using LLMs**  
 - Developing a deep-learning-based Arabic dialect classifier.  
 - Utilizing **pattern recognition, word choice, NLP, and machine learning techniques**.  
 
 ---
 
 ## **🕸️ Check these projects out**
-- <a href="https://isaalkhanous.github.io/APPs-Roll-Of-Fate/"> App's Roll of fate- small game project I made using html,css and javascript.
-- <a href="https://isaalkhanous.github.io/Anomaly-Protection-Protocol-APP/">App- A collaborative website inspired by SCP
+- <a href="https://github.com/IsaAlkhanous/APPs-Roll-Of-Fate"> App's Roll of fate- small game project I made using html,css and javascript.
+- <a href="https://github.com/IsaAlkhanous/Anomaly-Protection-Protocol-APP">App- A collaborative website inspired by SCP
 
 ## 📊 **GitHub Stats & Profile Insights**  
 <table>
